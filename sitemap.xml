@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lcxblog.com/2026/03/01/%E6%B5%8B%E8%AF%95%E7%94%A8/</loc>
+    
+    <lastmod>2026-03-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://lcxblog.com/tags/index.html</loc>
     
     <lastmod>2026-02-28</lastmod>
